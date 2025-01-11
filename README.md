@@ -6,10 +6,10 @@ ShardingSphere实现分库 + 读写分离
 1、[分库分表(1) --- 理论](https://www.cnblogs.com/qdhxhz/p/11608222.html)
 
 
-2、[分库分表(2) --- ShardingSphere(理论)]([URL](https://www.cnblogs.com/qdhxhz/p/11629883.html))
+2、[分库分表(2) --- ShardingSphere(理论)](https://www.cnblogs.com/qdhxhz/p/11629883.html)
 
 
-3、[分库分表(3) ---SpringBoot + ShardingSphere实现读写分离]([URL](https://www.cnblogs.com/qdhxhz/p/11656205.html))
+3、[分库分表(3) ---SpringBoot + ShardingSphere实现读写分离](https://www.cnblogs.com/qdhxhz/p/11656205.html)
 
 4、分库分表(4) ---SpringBoot + ShardingSphere 实现分表
 
