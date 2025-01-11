@@ -3,7 +3,8 @@
 ShardingSphere实现分库 + 读写分离
 有关ShardingSphere实现分库分表前面写了7篇博客作为该项目做详细说明。
 
-1、分库分表(1) --- 理论
+1、[分库分表(1) --- 理论](https://www.cnblogs.com/qdhxhz/p/11608222.html)
+
 
 2、分库分表(2) --- ShardingSphere(理论)
 
